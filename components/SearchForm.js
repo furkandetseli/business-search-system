@@ -15,6 +15,7 @@ const BUSINESS_TYPES = [
   { value: 'market', label: 'Market' },
   { value: 'kuaför', label: 'Kuaför' },
   { value: 'spor salonu', label: 'Spor Salonu' },
+  { value: 'telefoncu', label: 'Telefoncu / Telefon Aksesuarı' },
   { value: 'banka', label: 'Banka' },
   { value: 'hastane', label: 'Hastane' },
 ]
